@@ -9,28 +9,35 @@ Here are some of the tools and technologies I've worked with:
 ## Tech Skills
 
 ### Frontend
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white) – Advanced &nbsp;&nbsp; 
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=nextdotjs&logoColor=white) – Advanced &nbsp;&nbsp;
-![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?style=flat&logo=react&logoColor=white) – Intermediate &nbsp;&nbsp;
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) – Intermediate &nbsp;&nbsp;
-![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat&logo=redux&logoColor=white) – Intermediate &nbsp;&nbsp;
-![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=flat&logo=react-query&logoColor=white) – Intermediate &nbsp;&nbsp;
-![React Table](https://img.shields.io/badge/-React%20Table-FF4154?style=flat&logo=react-query&logoColor=white) – Intermediate &nbsp;&nbsp;
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white) – Advanced &nbsp;&nbsp;
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white) – Advanced
 
-### Backend & Databases
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white) – Intermediate &nbsp;&nbsp;
-![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=white) – Basic–Intermediate &nbsp;&nbsp;
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) – Basic–Intermediate &nbsp;&nbsp;
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=black) – Basic–Intermediate &nbsp;&nbsp;
-![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat&logo=heroku&logoColor=white) – Basic
+![React – Advanced](https://img.shields.io/badge/-React%20–%20Advanced-61DAFB?style=flat&logo=react&logoColor=white)&nbsp;&nbsp;
+![Next.js – Advanced](https://img.shields.io/badge/-Next.js%20–%20Advanced-000000?style=flat&logo=nextdotjs&logoColor=white)&nbsp;&nbsp;
+![React Native – Intermediate](https://img.shields.io/badge/-React%20Native%20–%20Intermediate-61DAFB?style=flat&logo=react&logoColor=white)&nbsp;&nbsp;
+![TypeScript – Intermediate](https://img.shields.io/badge/-TypeScript%20–%20Intermediate-3178C6?style=flat&logo=typescript&logoColor=white)&nbsp;&nbsp;
+![Redux – Intermediate](https://img.shields.io/badge/-Redux%20–%20Intermediate-764ABC?style=flat&logo=redux&logoColor=white)&nbsp;&nbsp;
+![React Query – Intermediate](https://img.shields.io/badge/-React%20Query%20–%20Intermediate-FF4154?style=flat&logo=react-query&logoColor=white)&nbsp;&nbsp;
+![React Table – Intermediate](https://img.shields.io/badge/-React%20Table%20–%20Intermediate-FF4154?style=flat&logo=react-query&logoColor=white)&nbsp;&nbsp;
+![CSS3 – Advanced](https://img.shields.io/badge/-CSS3%20–%20Advanced-1572B6?style=flat&logo=css3&logoColor=white)&nbsp;&nbsp;
+![HTML5 – Advanced](https://img.shields.io/badge/-HTML5%20–%20Advanced-E34F26?style=flat&logo=html5&logoColor=white)
 
-### Additional
-![REST API](https://img.shields.io/badge/-REST%20APIs-02569B?style=flat&logo=postman&logoColor=white) – Intermediate &nbsp;&nbsp;
-![Unit Testing](https://img.shields.io/badge/-Unit%20Testing-007ACC?style=flat&logo=visual-studio-code&logoColor=white) – Basic &nbsp;&nbsp;
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) – Intermediate &nbsp;&nbsp;
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) (Pygame) – Basic–Intermediate
+---
+
+## Backend & Databases
+
+![Node.js – Intermediate](https://img.shields.io/badge/-Node.js%20–%20Intermediate-339933?style=flat&logo=node.js&logoColor=white)&nbsp;&nbsp;
+![Express – Basic–Intermediate](https://img.shields.io/badge/-Express%20–%20Basic–Intermediate-000000?style=flat&logo=express&logoColor=white)&nbsp;&nbsp;
+![MongoDB – Basic–Intermediate](https://img.shields.io/badge/-MongoDB%20–%20Basic–Intermediate-47A248?style=flat&logo=mongodb&logoColor=white)&nbsp;&nbsp;
+![Firebase – Basic–Intermediate](https://img.shields.io/badge/-Firebase%20–%20Basic–Intermediate-FFCA28?style=flat&logo=firebase&logoColor=black)&nbsp;&nbsp;
+![Heroku – Basic](https://img.shields.io/badge/-Heroku%20–%20Basic-430098?style=flat&logo=heroku&logoColor=white)
+
+---
+
+## Additional
+
+![REST APIs – Intermediate](https://img.shields.io/badge/-REST%20APIs%20–%20Intermediate-02569B?style=flat&logo=postman&logoColor=white)&nbsp;&nbsp;
+![Unit Testing – Basic](https://img.shields.io/badge/-Unit%20Testing%20–%20Basic-007ACC?style=flat&logo=visual-studio-code&logoColor=white)&nbsp;&nbsp;
+![Git – Intermediate](https://img.shields.io/badge/-Git%20–%20Intermediate-F05032?style=flat&logo=git&logoColor=white)&nbsp;&nbsp;
+![Python (Pygame) – Basic–Intermediate](https://img.shields.io/badge/-Python%20(Pygame)%20–%20Basic–Intermediate-3776AB?style=flat&logo=python&logoColor=white)
 
 
 ---
