@@ -6,8 +6,6 @@ I'm a programmer with a couple of years of experience, always eager to learn and
 
 Here are some of the tools and technologies I've worked with:
 
-## Tech Skills
-
 ### Frontend
 
 ![React – Advanced](https://img.shields.io/badge/-React%20–%20Advanced-61DAFB?style=flat&logo=react&logoColor=white)&nbsp;&nbsp;
